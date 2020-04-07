@@ -31,6 +31,6 @@ Sunshine Hours/Year |	0.346623 | -0.285906	| 1.000000
 
 # Discussion
 
-The correlation is not as strong as I thought it would be. But we haven’t taken into account different factors such as the accurateness of the metric to determine to depression rate, the size the countries (the bigger the country, the more variation in sunshine hours/year), GDP, population, etc. More data should be gathered to attain a more accurate result. But before that, feel proud of yourself because you have just learned web scraping, one of the most essential processes in data science.
+The correlation is not as strong as I thought it would be. But we haven’t taken into account different factors such as the accurateness of the metric to determine to depression rate, the size the countries (the bigger the country, the more variation in sunshine hours/year), GDP, population, etc. More data should be gathered to attain a more accurate result.
 
 
